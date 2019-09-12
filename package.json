@@ -6,7 +6,7 @@
   "author": "Fin Mavis <fin.mavis@yahoo.com>",
   "license": "MIT",
   "private": false,
-  "devDependencies": {
+  "dependencies": {
     "purgecss-webpack-plugin": "^1.5.0"
   },
   "repository": {
