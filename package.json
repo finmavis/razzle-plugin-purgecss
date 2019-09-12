@@ -1,6 +1,6 @@
 {
   "name": "razzle-plugin-purgecss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Razzle plugin to Remove unused CSS",
   "main": "index.js",
   "author": "Fin Mavis <fin.mavis@yahoo.com>",
