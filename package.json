@@ -8,5 +8,14 @@
   "private": false,
   "devDependencies": {
     "purgecss-webpack-plugin": "^1.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finmavis/razzle-plugin-purgecss.git"
+  },
+  "keywords": [
+    "razzle",
+    "plugin",
+    "purgecss"
+  ]
 }
