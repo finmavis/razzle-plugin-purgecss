@@ -1,0 +1,12 @@
+{
+  "name": "razzle-plugin-purgecss",
+  "version": "1.0.0",
+  "description": "Razzle plugin to Remove unused CSS",
+  "main": "index.js",
+  "author": "Fin Mavis <fin.mavis@yahoo.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "purgecss-webpack-plugin": "^1.5.0"
+  }
+}
