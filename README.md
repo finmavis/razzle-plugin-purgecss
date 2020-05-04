@@ -159,4 +159,4 @@ This package contains a plugin to Remove unused CSS with Razzle.
   };
   ```
 
-See [PurgeCSS](https://purgecss.com/plugins/webpack.html) for more information.
+See [PurgeCSS](https://purgecss.com/guides/razzle.html) for more information.
