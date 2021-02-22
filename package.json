@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "purgecss-webpack-plugin": "^1.5.0"
+    "purgecss-webpack-plugin": "^4.0.2"
   },
   "repository": {
     "type": "git",
